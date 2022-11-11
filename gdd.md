@@ -27,3 +27,7 @@
 
 ## Respawn
 - Checkpoints
+
+# Setting
+- Medieval lyulin soc
+- The slightly fat guy is cursed to experience hell if he falls in deep sleep, so he power naps on the move and has to collect pieces of an artifact that can break the curse
