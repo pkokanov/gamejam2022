@@ -4,25 +4,26 @@
 - Platforming
 - Soc
 
-#3Cs
-##Camera 
+# 3Cs
+
+## Camera 
 - 2.5D
 
-##Controls
+## Controls
 - Move - Left/Right
 - Jump - Up
 - Sleep - Space
 
-##Character
+## Character
 - Slightly fat guy
 
-#Mechanics
-##Sleeping
+# Mechanics
+## Sleeping
 - Holding Space disables movement and refreshes energy
 
-##Death
+## Death
 - Sleeping on a single spot for too long
 - Falling from the map
 
-##Respawn
+## Respawn
 - Checkpoints
